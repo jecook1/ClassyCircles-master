@@ -2,6 +2,7 @@
 
     ' This is called CCircle the extra C indicates that it is a Class definition
 
+
     ' It contains the properties (variables) and methods (subroutines)
     ' that are needed in each Circle
 
